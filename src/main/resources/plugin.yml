@@ -4,3 +4,9 @@ main: me.stroyer.bosses.Main
 api-version: 1.17
 authors: [ Stroyer_ ]
 description: Bosses plugin for LonelyMC by Stroyer_
+commands:
+  boss:
+    usage: /<command> action
+    description: General Command
+    aliases: [b, bosses]
+
